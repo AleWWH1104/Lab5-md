@@ -2,4 +2,6 @@ venv/
 data/listings.RData
 data/listings.Rdata
 *.RData
-*.Rdata
+*.Rdata.claude
+claude/
+*.pdf
